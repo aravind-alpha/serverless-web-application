@@ -1,4 +1,4 @@
-#### serverless-web-application
+### serverless-web-application
 
 Building a Serverless Web Application on AWS
 
